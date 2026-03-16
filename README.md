@@ -11,7 +11,7 @@
 ![Data](https://img.shields.io/badge/data-JSON%20%2B%20Kaggle-green)
 
 ## Project Overview
-**🌐 Live Demo:** [Play Rukhsati Now on GitHub Pages](https://abumarar.github.io/rukhsati/)
+**🌐 Live Demo:** [Play Rukhsati Now on GitHub Pages]([https://abumarar.github.io/rukhsati/](https://rukhsati-kukkibbr7-abumarars-projects.vercel.app/))
 
 Rukhsati is an interactive, gamified web application designed to help users prepare for their driving license tests by learning and practicing Arabic traffic signs and road laws in an engaging environment.
 
