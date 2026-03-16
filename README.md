@@ -11,6 +11,8 @@
 ![Data](https://img.shields.io/badge/data-JSON%20%2B%20Kaggle-green)
 
 ## Project Overview
+**🌐 Live Demo:** [Play Rukhsati Now on Vercel](https://rukhsati-p8zxgthft-abumarars-projects.vercel.app/)
+
 Rukhsati is an interactive, gamified web application designed to help users prepare for their driving license tests by learning and practicing Arabic traffic signs and road laws in an engaging environment.
 
 ## Problem Statement
