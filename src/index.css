@@ -28,6 +28,14 @@ body {
   overflow-x: hidden;
   direction: rtl;
   -webkit-font-smoothing: antialiased;
+  width: 100vw;
+  position: relative;
+}
+
+#root {
+  width: 100%;
+  overflow-x: hidden;
+  position: relative;
 }
 
 /* START SCREEN */
