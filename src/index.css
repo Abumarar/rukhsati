@@ -423,7 +423,8 @@ body {
 
 @media (max-width: 600px) {
   .options-grid { grid-template-columns: 1fr; }
-  .start-logo { font-size: 2.2rem; }
+  .start-logo { font-size: 2.2rem; margin-bottom: 0.5rem; }
+  .logo-img { width: 140px; margin-top: 1rem; }
   .level-cards { flex-direction: column; align-items: center; }
   .hud { flex-wrap: wrap; justify-content: center; }
   .hud-progress { max-width: 100%; order: 3; flex-basis: 100%; }
