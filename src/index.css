@@ -216,7 +216,7 @@ body {
 @keyframes buildingsScroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 
 .car-container { 
-  position: absolute; bottom: 95px; right: 15%; width: 100px; height: 55px; 
+  position: absolute; bottom: 20px; right: 15%; width: 200px; height: 110px; 
   transform-style: preserve-3d;
   animation: carBounce 2s ease-in-out infinite;
 }
@@ -231,7 +231,7 @@ body {
 }
 /* Headlights */
 .car-container::before {
-  content: ''; position: absolute; right: -80px; top: 25px; width: 90px; height: 30px;
+  content: ''; position: absolute; right: -100px; top: 55px; width: 120px; height: 40px;
   background: linear-gradient(-90deg, transparent, rgba(254, 240, 138, 0.15));
   filter: blur(8px);
   transform: rotate(10deg);
@@ -240,7 +240,7 @@ body {
 
 /* Exhaust smoke */
 .exhaust-smoke {
-  position: absolute; left: 0px; bottom: 8px; width: 10px; height: 10px;
+  position: absolute; left: -10px; bottom: 15px; width: 15px; height: 15px;
   background: rgba(148, 163, 184, 0.6); border-radius: 50%;
   animation: exhaust 0.8s ease-out infinite; opacity: 0;
 }
@@ -369,7 +369,7 @@ body {
 .result-score-big {
   font-family: 'Tajawal', sans-serif; font-size: 4.5rem; font-weight: 900;
   background: linear-gradient(135deg, var(--yellow), var(--purple-light));
-  -webkit-background-clip: text; -webkit-text-fill-color: transparent; line-height: 1;
+  -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; line-height: 1;
   filter: drop-shadow(0 2px 10px rgba(245, 158, 11, 0.3));
 }
 .result-stats { display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; }
